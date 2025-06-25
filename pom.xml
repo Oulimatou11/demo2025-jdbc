@@ -9,11 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>sn.esmt</groupId>
-<<<<<<< HEAD
 	<artifactId>demo2025-jdbc</artifactId>
-=======
-	<artifactId>demo2025</artifactId>
->>>>>>> 7580c5aba6b5e0c86b7f1b183e1f9b44d82c22a7
 	<version>0.0.1-SNAPSHOT</version>
 	<name>demo2025</name>
 	<description>Demo project for Spring Boot</description>
